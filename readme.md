@@ -7,7 +7,8 @@
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Project-2** ![](https://img.shields.io/badge/Live%20-Link-orange)
+# **Project-2** [ Live Link ](https://ineuronproject-2.netlify.app/)
+
 >- Skills gained in this project
  >- I learned about how to use poisition in css [Relative and absolute]
  >- learned about how to use css selectors like:nth-child() :last-child, first child
@@ -19,4 +20,5 @@
 
  **Screenshot**
 ![](./screenshot/project-2.png)
+  
  
