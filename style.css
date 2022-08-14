@@ -75,3 +75,18 @@ body{
   color: #ffff;
   text-align: center;
 }
+@media screen and (max-width:500px) {
+  .list li{
+    font-size: 40px;  
+  }
+  .hero-heading{
+     width: 170vw;
+     font-size: 80px;
+     text-align: center;
+    line-height: 100px;
+  }
+  .button-small{
+    font-size: 60px;
+   
+  }
+}
